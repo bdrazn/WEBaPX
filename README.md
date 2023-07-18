@@ -1,16 +1,3 @@
-**Project Proposal: Employee Car Parts Inventory Website
-**
-
-![image](https://github.com/bdrazn/WEBaPX/assets/26321402/4b8c650e-d8e0-412c-81d7-f59969cbe246)
-
-**Introduction:
-**
-We are proposing to develop an employee car parts inventory website that allows employees to search for and order car parts from an internal inventory. The website will be designed to offer a user-friendly interface that makes it easy for employees to find the car parts they need and access detailed information on each product.
-
-
-![image](https://github.com/bdrazn/WEBaPX/assets/26321402/7b2a3108-ccfc-45f8-b48b-095ba132b5b1)
-
-
 **Objectives:
 **
 
